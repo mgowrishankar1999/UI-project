@@ -1,0 +1,165 @@
+
+ 
+#gova{
+    padding-left:120px;
+
+}
+
+
+.vv{
+    text-align: justify;
+    justify-content: center;
+    
+}
+ .jjj{
+    
+     justify-content: center; 
+      
+    
+ }
+ .btn{
+    background-color: rgba(25,110,200,1);
+ } 
+ #new{
+    /* height:10px; */
+    width:90%;
+    padding:52px;
+ }
+ .big{
+    text-align: center ;
+ }
+.vv{
+     text-align: center ;
+    justify-content: flex-end;
+     
+}
+.ch{
+    overflow: hidden;
+    margin-top: 70px;
+    margin-left: 50px;
+    height: 50%;
+    width:75%;
+    margin-right: 25px;
+    
+}
+@media screen and (min-width: 480px){.icon {font-size:20px; }.text{text-align: center;}}
+
+
+
+
+
+
+.nn{ margin-top: 20px;
+    
+}
+.jk{
+    text-align: center;
+}
+
+/* .bn{
+    text-align: center;
+    margin-left: 50%;
+} */
+
+.icon-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+.icon-box{
+    text-align: center;
+
+  }
+.icon{
+    font-size: 48px;
+  }
+.text{
+    text-align: center;
+    margin-top: 4px;
+  }
+.venom{
+    
+    height: 281px;
+    width:100%;
+    /* text-align: center; */
+    /* align-items: center; */
+    
+}
+.vai{
+    height:50px;
+    width:50px;
+    
+    margin-right: 400px;
+    
+}
+.para{
+    font-size:small;
+    text-align:start;
+
+}
+.hd{
+    text-align: start;
+}
+.ppara{
+    text-align: start;
+    font-size:medium;
+    
+}
+.pppara{
+    text-align: start;
+
+}
+.jj{
+   
+    
+    
+   
+   /*  */
+   
+
+}
+.moni{
+    border:1px solid rgba(12, 117, 223, 1);
+    margin-top:270px;
+    justify-content: space-around;
+    border-radius: 15px;
+    
+}
+@media(max-width:768px){
+    .sony{
+        flex-direction: column;
+    }
+} 
+@media(max-width:768px){
+    .marsh{
+        flex-direction: column;
+    }
+} 
+.d-flex{
+    
+    justify-content: center;
+    align-items: center; 
+    
+}
+.push{
+    justify-content: center;
+    align-items: center; 
+}
+.app{
+    text-decoration: none;
+   
+}
+
+.jaj{
+    list-style: none;
+    
+}
+.app:hover{
+    color:rgb(6, 6, 6);
+}
+.ds{
+    margin-left: 105px;
+}
+.ttt:hover{
+    color:rgb(231, 30, 70);
+}
